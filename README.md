@@ -23,7 +23,7 @@ Data processing contains the follwing steps:
 ## Trained Models
 
 Model checkpoints have been created and are available in the repository. Make sure to save those in the same directory with the notebook or to update the directory.
-
+Use the commented-out notebook to only evaluate model performance using the test dataset.
 
 
 
