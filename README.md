@@ -25,6 +25,12 @@ Data processing contains the follwing steps:
 Model checkpoints have been created and are available in the repository. Make sure to save those in the same directory with the notebook or to update the directory.
 Use the commented-out notebook to only evaluate model performance using the test dataset.
 
+Use 'DL4H_Team_168_final_training_commented_out.ipynb' (training steps commented out) for faster testing of the trained models. 
+
+## Video presentation
+
+https://mediaspace.illinois.edu/media/1_iclu5qwi
+
 
 
 
